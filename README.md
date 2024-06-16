@@ -1,8 +1,3 @@
-# Stellar-AI-Chronicles
-Sure, here’s the updated version incorporating your point:
-
----
-
 # 🌟 Areefa's Stellar AI Chronicles 🌟
 **Journey Through AI Stars: Insights, Innovations, Discoveries**
 
