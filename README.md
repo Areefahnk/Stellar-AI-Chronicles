@@ -18,6 +18,7 @@ My aim is to grow this as a community where we can learn and innovate together. 
 - **📧 Connect**: Reach out to me with suggestions, ideas, or just to chat about AI.
 
 Together, we can explore the stars of AI and make amazing discoveries. Thank you for joining me on this journey. Let's learn, innovate, and grow as a community!
-![Community Image](images/example.png)
+
+![Community Image](CHRONICLES.png)
 
 ---
