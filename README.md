@@ -21,4 +21,7 @@ Together, we can explore the stars of AI and make amazing discoveries. Thank you
 
 ![Community Image](CHRONICLES.png)
 
+https://datamagiclab.com/download-and-save-llm-from-hugging-face/
+
+
 ---
